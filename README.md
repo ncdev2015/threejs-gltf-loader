@@ -1,6 +1,6 @@
 # threejs-gltf-loader
 
-This template should help get you started developing with Vue 3 in Vite.
+This example show how to load a gltf file as 3D model with Vuejs and Threejs
 
 ## Recommended IDE Setup
 
